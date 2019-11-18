@@ -37,3 +37,4 @@ cat input | ./mapper.py | ./reducer.py
 ## Why I didnt use Java
 1. I was curious how it was possible to run mapreduce in any language
 2. Jave requires you to use the Hadoop Datatypes, which became problematic when trying to implement
+3. I was interested in using mapreduce for data mining purposes and python is much more popular than Java in that aspect
