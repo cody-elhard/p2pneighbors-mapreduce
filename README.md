@@ -1,5 +1,8 @@
 # p2pneighbors-mapreduce
 
+# Sample input shown as image
+<img src="https://raw.githubusercontent.com/cody-elhard/p2pneighbors-mapreduce/master/inputnetwork.png" />
+
 ## Reading the output
 - Given the sample input included in the repo the results will look similar to the following
 
