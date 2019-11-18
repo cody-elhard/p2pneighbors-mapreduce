@@ -6,11 +6,11 @@
 ## Reading the output
 - Given the sample input included in the repo the results will look similar to the following
 
-(('6', '2'), '3 4')
+(('3', '6'), '5')
 
-- This is saying nodes (6 and 2) share nodes 3 and 4 as neighbors
-- ('6', '2') corresponds to the two nodes for which their common neigbhors are given
-- 3 4 refers to the two nodes, which they share as common neighbors
+- This is saying nodes (3 and 6) share node 5
+- ('3', '6') corresponds to the two nodes for which their common neigbhors are given
+- 5 refers to the node, which they share as a common neighbor (note there can be additional shared noded addended to the shared nodes (i.e. (('3', '6'), '5 7 8 9')
 
 ## Program execution
 Hadoop
